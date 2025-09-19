@@ -25,8 +25,7 @@
   "summary_zh": "一位年近四十的作者，分享了自己从青年到中年如何应对迷茫与焦虑的个人经历。文章核心观点是：迷茫源于现状与理想自我的差距，解决之道在于具体、极致的行动优化，而非空想或祈祷。作者对比了过去更具实体感的社交环境与当今碎片化的虚拟互动，后者往往加剧焦虑。文章还探讨了财务焦虑，提醒读者认清经济周期，及时“落袋为安”，避免过度杠杆。最后，作者谈及家庭既是支持也是压力源，并总结：年轻时所有努力的终极目标，是为中年积累足够的自由与底气，以安享从容生活。",
   "best_quote_en": "When you become the person you imagined, you will recognize yourself through your actions and eliminate confusion and anxiety through your gains.",
   "best_quote_zh": "当自己成为那个想象中的“自己”时，会因行动而认可自己、因收获而断除迷茫焦虑。"
-}.
-{
+},
  {
   "id": 1,
   "title": "你可耻的一面才更有魅力",
@@ -40,5 +39,19 @@
   "summary_zh": "文章指出，可耻的部分——依赖、嫉妒、欲望——才是魅力所在。与其隐藏，不如承认并整合这些影子面向，从而获得更真实的亲密感、自由与创造力。",
   "best_quote_en": "The shameful parts are not to be erased but embraced—your jealousy points to your path, your dependence enables intimacy, and your desire fuels creation.",
   "best_quote_zh": "可耻的部分不是要抹掉，而是要接纳——嫉妒指向你的道路，依赖带来亲密，欲望驱动创造。"
-}
+},
+{
+  "id": 2,
+  "title": "读《可塑的我》摘抄",
+  "title_zh": "读《可塑的我》摘抄",
+  "source": "豆瓣读书 · 骨扒皮",
+  "link": "https://book.douban.com/annotation/138216290/",
+  "tags": ["self-growth", "midlife crisis", "psychological maturity"],
+  "tags_zh": ["自我成长", "中年危机", "心理成熟"],
+  "date": "2024-10-20",
+  "summary_en": "This piece extracts insights from *The Plastic Me*, focusing on how midlife anxiety—feelings of depression, loss of control, procrastination—can serve as signals rather than verdicts. It suggests that recognising the abilities one lacks, confronting emotional discomfort, and cultivating capacities like emotional regulation, self-reflection, and authenticity are essential to navigate this stage. Practical exercises include writing, body awareness, identifying core values, mapping out one’s life psychological resources, and examining relationship patterns rooted in childhood. The path of growth involves letting go of limiting beliefs, understanding one’s attachment history, gradually building trust in self, and establishing healthier, balanced relationships internally and with others.",
+  "summary_zh": "这篇摘抄来自《可塑的我》，主要讨论中年期的焦虑、失控、拖延等情绪不是失败的标志，而是内在能力缺失或生命阶段过渡的提醒。文章提出，通过觉察情绪、提升情绪调节能力、自我反思、明确核心价值观、梳理童年依恋模式等方式，可以应对并转化中年危机。文中还包含了一些实用练习，比如写作、身体觉察、心理地图、关系剧本分析等。成长是一个逐步放下限制性信念、理解并整合自我—包括与他人的关系—的过程。",
+  "best_quote_en": "Midlife anxiety and depression are the messengers, not the judges: they tell you where your capacities are undeveloped and where you are no longer aligned, and only by cultivating awareness, accepting limitation, and choosing consciously will you grow into a more mature self.",
+  "best_quote_zh": "中年的焦虑与抑郁是信使，不是审判者：它们告诉你哪些能力尚未发展，哪些地方已不再契合；唯有通过觉察、接受局限、有意识地做出选择，你才会成长为一个更加成熟的自我。"
+}    
 ]
