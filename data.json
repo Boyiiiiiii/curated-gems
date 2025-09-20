@@ -55,58 +55,17 @@
   "best_quote_zh": "中年的焦虑与抑郁是信使，不是审判者：它们告诉你哪些能力尚未发展，哪些地方已不再契合；唯有通过觉察、接受局限、有意识地做出选择，你才会成长为一个更加成熟的自我。"
 },
 {
-    "id": 2,
-    "title": "The Illusion of Material Pursuits and the Path to Inner Peace",
-    "title_zh": "物质追求的幻象与回归本心之路",
-    "source": "老子《道德经》第十二章解析",
-    "link": "链接2",
-    "tags": ["哲学", "心灵成长", "道家思想"],
-    "tags_zh": ["哲学", "心灵成长", "道家思想"],
-    "date": "2025-09-20",
-    "summary_en": "A profound reflection on how sensory indulgence leads to spiritual alienation, advocating a return to simplicity through Laozi's wisdom about rejecting external temptations to attain inner tranquility.",
-    "summary_zh": "通过老子智慧深刻剖析感官放纵导致精神迷失的现象，主张摒弃外欲回归质朴本心以获得内在安宁。",
-    "best_quote_en": "\"The sage cares for the belly not the eyes\" - true fulfillment comes from inward cultivation rather than outward acquisition.",
-    "best_quote_zh": "『是以圣人为腹不为目』——真正的满足源于向内修行而非向外索取。",
-    "key_points": [
-        {
-            "en": "Modern paradox: Material abundance correlates with spiritual emptiness",
-            "zh": "现代悖论：物质丰裕与心灵空虚正相关",
-            "detail_zh": "文章以梦境中高科技诈骗案例揭示物质文明背后的精神危机，呼应老子对'五色令人目盲'的警示"
-        },
-        {
-            "en": "The vicious cycle of sensory addiction",
-            "zh": "感官成瘾的恶性循环",
-            "detail_zh": "从音乐刺激剂量递增到毒品尝试，从购物狂到极限运动，论证现代人如何陷入'驰骋畋猎令人心狂'的困境"
-        },
-        {
-            "en": "\"For the belly\" as spiritual metaphor",
-            "zh": "『为腹』的深层精神隐喻",
-            "detail_zh": "突破字面解读，阐释'为腹'实指回归自性家园的内在修行，'为目'象征被业力驱使的外在追逐"
-        },
-        {
-            "en": "Vegetarianism as natural outcome of cultivation",
-            "zh": "素食作为修行的自然结果",
-            "detail_zh": "驳斥形式化吃素，强调当修行达到'内心充实'境界时，身体会自然拒绝荤腥需求"
-        }
-    ],
-    "contemporary_relevance": {
-        "en": "Provides philosophical antidote to consumerism and digital overload in AI era",
-        "zh": "为人工智能时代的消费主义与信息过载提供哲学解药",
-        "examples_zh": [
-            "智能手机依赖症与'难得之货令人行妨'的现代演绎",
-            "元宇宙虚拟刺激对'五色令人目盲'的科技印证",
-            "内卷社会中的'心狂'现象与老子预警的完美契合"
-        ]
-    },
-    "visual_analysis": {
-        "image_used": true,
-        "image_caption": "梦境与现实交织的警示性插图",
-        "image_relevance": "强化了高科技犯罪与精神堕落关联性的视觉隐喻"
-    },
-    "critical_insights": {
-        "en": "Challenges conventional interpretations of Daoist asceticism by framing simplicity as active spiritual homecoming",
-        "zh": "通过将朴素重新定义为主动的精神回归，挑战道家禁欲主义的传统解读",
-        "controversy_zh": "文中'无法无天才是真正清静心'的表述可能引发对传统修行次第的争议"
-    }
-}   
+  "id": 1,
+  "title": "以“道”解“道”，山顶洞人颠覆性解读《道德经》之第1章",
+  "title_zh": "以“道”解“道”，山顶洞人颠覆性解读《道德经》之第1章",
+  "source": "知乎专栏 • 山顶洞人",
+  "link": "https://zhuanlan.zhihu.com/p/33679894",
+  "tags": ["Tao Te Ching", "philosophy", "translation interpretation", "道德经", "Daoism"],
+  "tags_zh": ["道德经", "哲学", "翻译/解读", "道家思想", "颠覆性"],
+  "date": "未知",  
+  "summary_en": "This article offers a radical reinterpretation of Chapter 1 of the *Tao Te Ching*, focusing on the meaning of “Dao” (道), “name” (名), and how “the nameless” and “the named” relate to existence and perception. The author argues that conventional understandings of “Dao” are inadequate, and proposes seeing “Dao” not as a static entity but as a process or relationship that underlies experience. The text highlights the interplay of presence and absence, of what can be named versus what cannot, suggesting that true understanding emerges when one holds both “the nameless” and “the named” in balance.",
+  "summary_zh": "文章对《道德经》第1章进行了颠覆性的解读，重点在于“道”、“名”的含义，以及“无名”（nameless）与“有名”（named）如何关联存在与感知。作者认为传统对“道”的理解过于静态或者实质化，不足以涵盖其深层意蕴，提出应将“道”理解为一种过程或关系，存在于经验之中。文章强调“无”、“有”、“名”之间的张力：既有名可言，又有不可名；真正的领悟是在“无名”与“有名”之间保持某种平衡或张力。",
+  "best_quote_en": "“Dao that can be spoken of is not the eternal Dao; name that can be named is not the eternal name.” (Translation paraphrase) — emphasizing that naming and speaking already limit what is eternal.",
+  "best_quote_zh": "“道可道，非常道；名可名，非常名。”——指出一旦用“道”“名”的语言去表达，永恒之道、永恒之名就已被有形之言语所限。"
+}
 ]
