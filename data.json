@@ -109,5 +109,19 @@
     "summary_zh": "这篇文章是EFT读书会的第二章内容，核心探讨情绪的本质。文中先梳理了情绪的定义及相关理论演变（从古希腊斯多葛派认为情绪是“灵魂疾病”，到现代辩证建构主义对情绪的综合认知），还证实了情绪的普遍性——比如愤怒、恐惧、悲伤等六种基本情绪，无论人来自美国、日本还是婆罗洲部落，面部表情都一致。接着分析了情绪与身体、思想的联系：情绪和边缘系统相关，有“快速低路”（杏仁核触发紧急反应）和“慢速高路”（新皮质参与思考）两种产生路径；情绪与思想也不是简单的先后关系，而是相互作用的动态过程。文中还提出“情绪计划”这一关键概念，指情绪、动机、认知和行动会形成综合反应模式，影响我们的情绪体验和决策。此外，文章探讨了需求的形成（由情绪偏好和互动经验构建，而非天生本能），以及改变情绪的方法，比如给情绪贴标签能降低唤醒度、亲密关系的安全感能调节情绪、积极情绪能缓解消极情绪等。最后介绍了情绪聚焦疗法（EFT）的研究效果，它在治疗抑郁症、婚姻困扰、创伤等方面都有实证支持，能帮助人们更好地处理情绪问题。",
     "best_quote_en": "Poetry is when an emotion has found its thought and the thought has found words. ——Robert Frost",
     "best_quote_zh": "诗歌就是当一种情感找到了思想，思想找到了文字。——罗伯特-弗罗斯特"
+  },
+    {
+    "id": 1,
+    "title": "【AI】Aerobic Training, Resistance Training and Strength Training: Analysis and Comparison Based on the Latest Scientific Research",
+    "title_zh": "【AI】有氧训练、阻抗训练与力量训练：基于最新科学研究的解析与比较",
+    "source": "豆瓣",
+    "link": "https://www.douban.com/note/872623610/?_i=8387050y6Lj3OT",
+    "tags": ["Aerobic Training", "Resistance Training", "Strength Training", "Scientific Research on Exercise", "Concurrent Training"],
+    "tags_zh": ["有氧训练", "阻抗训练", "力量训练", "运动科学研究", "复合训练"],
+    "date": "2025-05-07",
+    "summary_en": "This article systematically analyzes three common exercise types—aerobic training, resistance training, and strength training—based on the latest scientific research. First, it clarifies their definitions and core principles: aerobic training (e.g., walking, running) focuses on improving cardiopulmonary endurance and relies on aerobic metabolism; resistance training (e.g., using dumbbells, body weight) aims to enhance functional abilities through progressive overload, covering muscle endurance, hypertrophy, and strength; strength training, a branch of resistance training, prioritizes maximizing peak strength and power with high loads and low repetitions. Then, it details their physiological adaptations (e.g., aerobic training increases mitochondrial density, resistance training promotes muscle hypertrophy and bone density, strength training enhances neural drive) and health benefits (e.g., aerobic training improves cardiovascular health and aids weight loss, resistance training benefits metabolic health and prevents sarcopenia, strength training boosts sports performance and injury prevention). It also compares their differences in energy system use, muscle fiber impact, and effectiveness for specific goals (e.g., aerobic training is best for weight loss, HIIT excels at reducing waist circumference and body fat rate, resistance training is optimal for muscle gain). Finally, it discusses concurrent training (combining different exercise types), noting its comprehensive health benefits while suggesting strategies to reduce potential interference effects (e.g., time separation, choosing low-impact aerobic modes), to help individuals make informed exercise choices based on their goals.",
+    "summary_zh": "这篇文章基于最新科学研究，系统解析了有氧、阻抗、力量三种常见运动类型。首先明确了它们的定义和核心原理：有氧训练（比如快走、跑步）以提升心肺耐力为核心，靠有氧代谢供能；阻抗训练（比如用哑铃、自身体重锻炼）通过“渐进超负荷”增强身体功能，能练肌肉耐力、增肌、提力量；力量训练是阻抗训练的分支，专门追求最大力量和爆发力，特点是大负荷、少次数。接着详细讲了每种训练的生理变化（比如有氧训练会增加线粒体密度，阻抗训练能促进肌肉生长和骨密度提升，力量训练能增强神经对肌肉的控制）和健康好处（比如有氧训练改善心血管健康、帮助减重，阻抗训练有益代谢健康、预防肌肉流失，力量训练提升运动表现、减少受伤）。然后对比了它们的差异：比如依赖的能量系统不同、对肌纤维的影响不同，以及针对不同目标的效果（比如减重选有氧训练效果最好，减腰围和体脂率选HIIT更优，增肌则阻抗训练最有效）。最后还讲了“复合训练”（把不同运动结合起来），说它能带来更全面的健康益处，但要注意减少“干扰效应”（比如分开安排有氧和阻抗训练时间、选骑行而非跑步这类低冲击有氧模式），帮助大家根据自己的目标选对运动方式。",
+    "best_quote_en": "The importance of physical activity for individual health and population well-being has been widely recognized, and regular physical exercise is considered one of the key factors in maintaining health and prolonging lifespan.",
+    "best_quote_zh": "体育活动对个体健康和群体福祉的重要性已获得广泛共识，规律的体育锻炼被认为是维持健康、延长寿命的关键因素之一"
   }
 ]
