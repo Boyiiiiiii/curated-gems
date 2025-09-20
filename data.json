@@ -55,17 +55,17 @@
   "best_quote_zh": "中年的焦虑与抑郁是信使，不是审判者：它们告诉你哪些能力尚未发展，哪些地方已不再契合；唯有通过觉察、接受局限、有意识地做出选择，你才会成长为一个更加成熟的自我。"
 },
 {
-  "id": 1,
-  "title": "以“道”解“道”，山顶洞人颠覆性解读《道德经》之第1章",
-  "title_zh": "以“道”解“道”，山顶洞人颠覆性解读《道德经》之第1章",
-  "source": "知乎专栏 • 山顶洞人",
-  "link": "https://zhuanlan.zhihu.com/p/33679894",
-  "tags": ["Tao Te Ching", "philosophy", "translation interpretation", "道德经", "Daoism"],
-  "tags_zh": ["道德经", "哲学", "翻译/解读", "道家思想", "颠覆性"],
-  "date": "未知",  
-  "summary_en": "This article offers a radical reinterpretation of Chapter 1 of the *Tao Te Ching*, focusing on the meaning of “Dao” (道), “name” (名), and how “the nameless” and “the named” relate to existence and perception. The author argues that conventional understandings of “Dao” are inadequate, and proposes seeing “Dao” not as a static entity but as a process or relationship that underlies experience. The text highlights the interplay of presence and absence, of what can be named versus what cannot, suggesting that true understanding emerges when one holds both “the nameless” and “the named” in balance.",
-  "summary_zh": "文章对《道德经》第1章进行了颠覆性的解读，重点在于“道”、“名”的含义，以及“无名”（nameless）与“有名”（named）如何关联存在与感知。作者认为传统对“道”的理解过于静态或者实质化，不足以涵盖其深层意蕴，提出应将“道”理解为一种过程或关系，存在于经验之中。文章强调“无”、“有”、“名”之间的张力：既有名可言，又有不可名；真正的领悟是在“无名”与“有名”之间保持某种平衡或张力。",
-  "best_quote_en": "“Dao that can be spoken of is not the eternal Dao; name that can be named is not the eternal name.” (Translation paraphrase) — emphasizing that naming and speaking already limit what is eternal.",
-  "best_quote_zh": "“道可道，非常道；名可名，非常名。”——指出一旦用“道”“名”的语言去表达，永恒之道、永恒之名就已被有形之言语所限。"
-}
+    "id": 1,
+    "title": "Using 'Dao' to Explain 'Dao': The Mountain Top Cave Man's Disruptive Interpretation of Tao Te Ching Chapter 1",
+    "title_zh": "以“道”解“道”，山顶洞人颠覆性解读《道德经》之第1章",
+    "source": "Zhihu Zhuanlan",
+    "link": "https://zhuanlan.zhihu.com/p/33679894",
+    "tags": ["Taoism", "Buddhism", "Philosophy", "Interpretation", "Spirituality"],
+    "tags_zh": ["道家", "佛教", "哲学", "解读", "灵性"],
+    "date": "2017-09-12",
+    "summary_en": "The article is the first chapter in the series 'Buddha and Tao as One: Tao Te Ching' by the author 'Mountain Top Cave Man'. It offers a disruptive interpretation of the opening chapter of the Tao Te Ching, blending Taoist principles with Buddhist insights. The author, having experienced a personal transformation from a life of material pursuit to spiritual enlightenment, explains the ineffable nature of 'Dao'. He argues that conventional interpretations fail because they don't stand at the level of 'Dao' itself. The interpretation explores the lines 'Dao that can be spoken is not the eternal Dao' as a call to transcend verbal descriptions and experience the Dao directly, integrating Buddhist concepts of emptiness and enlightenment to deepen the understanding. The series aims to make the Tao Te Ching accessible to various audiences, not just practitioners, by focusing on the 'Dao' behind the words rather than literal translations.",
+    "summary_zh": "这篇文章是作者‘山顶洞人’系列‘佛道一如道德经’的第一章。它对《道德经》的开篇章提供了颠覆性解读，将道家原则与佛教洞见融合。作者经历了从物质追求到精神觉醒的个人转变，解释了‘道’的不可言说性质。他认为传统解读失败，因为它们没有站在‘道’的层面本身。该解读探索了‘道可道，非常道’的台词，作为超越语言描述并直接体验道的号召，整合佛教的空性和觉醒概念以加深理解。该系列旨在使《道德经》适用于各种受众，而不只是修行者，通过关注文字背后的‘道’而非字面翻译。",
+    "best_quote_en": "Laozi is standing at the height of 'Dao' overlooking the universe, while all who interpret the 'Tao Te Ching' are standing on Earth gazing at the starry sky.",
+    "best_quote_zh": "老子是站在“道”的高度俯瞰宇宙的，而所有解《道德经》的人都是站在地球上仰望星空。"
+  }
 ]
