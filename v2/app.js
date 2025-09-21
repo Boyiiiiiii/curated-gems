@@ -82,9 +82,7 @@ function mountControls() {
     const lang = window.currentLang || 'zh';
 
     // 🔍 优化后的搜索框提示文字 - 更友好、更直观
-    const placeholder = lang === 'zh'
-        ? '🔍 输入关键词搜索精彩内容...'
-        : '🔍 Enter keywords to search amazing content...';
+   ? '👋 想找啥 ？'
 
     controlsEl.innerHTML = `
         <div class="controls">
