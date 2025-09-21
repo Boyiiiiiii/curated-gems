@@ -81,9 +81,9 @@ async function loadData() {
 function mountControls() {
     const lang = window.currentLang || 'zh';
 
-    // 🔍 优化后的搜索框提示文字 - 更友好、更直观
 const placeholder = lang === 'zh'
-    ? '👋 想找啥？'
+    ? '🔍 想找啥~？'
+    : '🔍 Enter keywords to search amazing content...';
     
     controlsEl.innerHTML = `
         <div class="controls">
