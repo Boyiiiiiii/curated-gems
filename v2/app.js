@@ -182,13 +182,14 @@ if (query === 'magic') {
 /**
  * 渲染数据源选择器
  */
-function renderSources(list) {
+function renderSources(list) {  
+    const counts = window.__countsForCurrentQuery || { all: raw.length };
     const lang = window.currentLang || 'zh';
 
     sourcesEl.innerHTML = list.map(source => {
         // 🌟 优化数据源显示文字
        const n = counts[source] || 0;
-        const displayText = source === 'all'
+       const displayText = source === 'all'
           ? (lang === 'zh'
               ? `📚 全部 (${n})`
               : `📚 All (${n})`)
@@ -197,11 +198,11 @@ function renderSources(list) {
 
         return `<span class="tag ${isActive}" data-source="${source}">${esc(displayText)}</span>`;
     }).join('');
-}
-
-/**
- * 渲染文章列表
- */
+    }
+    
+    /**
+     * 渲染文章列表
+     */
 function render(items) {
     const lang = window.currentLang || 'zh';
 
